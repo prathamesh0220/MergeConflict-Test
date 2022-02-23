@@ -3,10 +3,10 @@
 </head>
 <body>
 <<<<<<< HEAD
-something
+master
 =======
-anythin
+new_feature
 >>>>>>> new_feature
 
 </body>
-/html
+</html>
